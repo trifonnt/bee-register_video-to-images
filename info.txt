@@ -1,0 +1,17 @@
+= Image labeling
+   Getting Started with LabelImg for Labeling Object Detection Data
+ - https://blog.roboflow.com/labelimg/
+
+$ sudo apt-get install pyqt5-dev-tools
+$ sudo apt-get install -y python3-pip
+$ pip3 install labelImg
+# Start labelImg
+$ /home/vagrant/.local/bin/labelImg
+
+
+= Video - TODO - Automatically download images and save them locally
+   My videos - 2
+ - https://photos.app.goo.gl/RyH41MNxLy9NHQfE8
+
+   My videos - 1
+ + https://photos.app.goo.gl/o4iZ7JXs6sqGXnaYA
